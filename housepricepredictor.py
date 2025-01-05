@@ -45,7 +45,7 @@ try:
     # Ensure the boolean inputs are correctly handled and debug their values
     mainroad_input = input("Is the house on main road (yes/no): ").strip().lower()
     basement_input = input("Does the house have a basement (yes/no): ").strip().lower()
-    prefarea_input = input("Is the house in our preferred area (yes/no): ").strip().lower()
+    prefarea_input = input("Is the house in your preferred area (yes/no): ").strip().lower()
 
     # Convert inputs to boolean values (True/False)
     mainroad = True if mainroad_input == 'yes' else False
