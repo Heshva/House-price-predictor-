@@ -1,6 +1,7 @@
 # House-price-predictor using Linear Regression 
 
 This Python program predicts the price of a house based on various features such as area, number of bedrooms, bathrooms, stories, parking, and whether it is located on the main road, has a basement, or is in a preferred area. It uses a linear regression model to make the prediction based on a dataset containing these features.
+The accuracy of the code is 60% 
 
 Requirements
 Python 3.x
